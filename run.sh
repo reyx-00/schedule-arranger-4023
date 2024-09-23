@@ -11,4 +11,4 @@ npx prisma generate
 npx webpack
 
 # アプリケーションを起動
-npde src/server.js
+node src/server.js
